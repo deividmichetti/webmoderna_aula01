@@ -13,6 +13,10 @@ nav a{
     text-decoration: none
 }
 
+nav a:hover{
+    color: yellow
+}
+
 .caixa{
     position: relative;
     background: red;
@@ -24,4 +28,8 @@ nav a{
 nav{
     position: static;
     margin: 0 auto;
+}
+
+footer{
+    color: green
 }
