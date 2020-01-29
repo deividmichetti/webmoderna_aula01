@@ -1,0 +1,36 @@
+body{
+    color: blue;
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#img1{
+    border: 1px solid #000;
+}
+
+.corvermelha{
+    color: red;
+}
+
+.principal{
+    background: gray;
+    padding: 10px;
+}
+
+.beneficios{
+    background: orangered;
+}
+
+.itens{
+    font-style: italic;
+}
+
+ul {
+    list-style-type: square;
+    display: inline-block;
+}
+
+header {
+    color: green;
+}
